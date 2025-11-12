@@ -1,0 +1,8 @@
+id = "one-dark-night-flat"
+name = "One Dark Night Flat"
+version = "1.0.1"
+schema_version = 1
+authors = ["Arun Chapagain"]
+description = "A darkened variant with enhanced contrast of One Dark Night Flat theme for Zed."
+repository = "https://github.com/ArunChapagain/one-dark-night-flat"
+
